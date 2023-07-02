@@ -9,9 +9,14 @@
 <a href="https://t.me/placidorochaalves" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ```
-Olá, sou Profissional de TI há 10 anos, formado em Cyber Security pelo Centro Universitário UniFavip. Durante esse periodo estivesse em empresas de diferentes ramos, onde sempre busquei e busco conhecimento, porque acredito que devo ser a minha melhor versão, para que eu possa entregar soluções para pessoas, empresas e considerando sempre nosso compromisso com a responsabilidade social.
+Olá, sou Profissional de TI há 10 anos, formado em Cyber Security pelo Centro Universitário UniFavip.
+Durante esse periodo estivesse em empresas de diferentes ramos, onde sempre busquei e busco conhecimento,
+porque acredito que devo ser a minha melhor versão, para que eu possa entregar soluções para pessoas,
+empresas e considerando sempre nosso compromisso com a responsabilidade social.
 
-Sou apaixonado por Tecnologias, principalmente Cibersegurança. Mas tambem obtive conhecimento nas áreas de Infraestrutura, Redes, Banco de Dados e ERP's especificos. Agora estou aperfeiçando em uma linguagem de Programação. Conhecimento nunca será suficiente, assim acredito! 
+Sou apaixonado por Tecnologias, principalmente Cibersegurança. Mas tambem obtive conhecimento nas áreas de
+Infraestrutura, Redes, Banco de Dados e ERP's especificos. Agora estou aperfeiçando em uma linguagem de
+Programação. Conhecimento nunca será suficiente, assim acredito! 
 
 Vou ser breve, mais informações vocês poderão acessar via Linkedin. Tá afim de aumentar sua networking? Me add aí.
 
