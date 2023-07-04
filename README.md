@@ -10,7 +10,7 @@
 
 ```
 Olá, sou Profissional de TI há 10 anos, formado em Cyber Security pelo Centro Universitário UniFavip.
-Durante esse período estivesse em empresas de diferentes ramos, onde sempre busquei e busco conhecimento,
+Durante esse período estive em empresas de diferentes ramos, onde sempre busquei e busco conhecimento,
 porque acredito que devo ser a minha melhor versão, para que eu possa entregar soluções para pessoas,
 empresas e considerando sempre nosso compromisso com a responsabilidade social.
 
